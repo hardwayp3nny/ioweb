@@ -1,0 +1,1567 @@
+{
+    "processorData": [
+        {
+            "datetime": "2024-08-05T06:00:00",
+            "processors": [
+                {
+                    "name": "h100 pcie",
+                    "reward": 0.6560436605030064
+                },
+                {
+                    "name": "h100 80gb hbm3",
+                    "reward": 0.6559230306393418
+                },
+                {
+                    "name": "a100 80gb pcie",
+                    "reward": 0.3284367351225498
+                },
+                {
+                    "name": "a100-sxm4-80gb",
+                    "reward": 0.3281081503570646
+                },
+                {
+                    "name": "rtx 6000 ada generation",
+                    "reward": 0.1640416175
+                },
+                {
+                    "name": "l40",
+                    "reward": 0.14764565375
+                },
+                {
+                    "name": "a40",
+                    "reward": 0.13174157
+                },
+                {
+                    "name": "a100-pcie-40gb",
+                    "reward": 0.13149483454157185
+                },
+                {
+                    "name": "rtx a6000",
+                    "reward": 0.098888155
+                },
+                {
+                    "name": "rtx 5000 ada generation",
+                    "reward": 0.09862172
+                },
+                {
+                    "name": "m2 ultra",
+                    "reward": 0.09510757499999997
+                },
+                {
+                    "name": "m3 max",
+                    "reward": 0.07621828500000001
+                },
+                {
+                    "name": "m2 max",
+                    "reward": 0.07621828499999994
+                },
+                {
+                    "name": "a16",
+                    "reward": 0.065747815
+                },
+                {
+                    "name": "m2 pro",
+                    "reward": 0.05732899500000051
+                },
+                {
+                    "name": "m3 pro",
+                    "reward": 0.05732899500000014
+                },
+                {
+                    "name": "tesla v100-sxm2-32gb",
+                    "reward": 0.049843730000000065
+                },
+                {
+                    "name": "a10g",
+                    "reward": 0.04982234391304348
+                },
+                {
+                    "name": "geforce rtx 3090 ti",
+                    "reward": 0.04976175
+                },
+                {
+                    "name": "l4",
+                    "reward": 0.04975053972757494
+                },
+                {
+                    "name": "rtx a5000",
+                    "reward": 0.04974684454545454
+                },
+                {
+                    "name": "geforce rtx 4090",
+                    "reward": 0.049428614951194126
+                },
+                {
+                    "name": "a10",
+                    "reward": 0.049404795520833336
+                },
+                {
+                    "name": "geforce rtx 4090 d",
+                    "reward": 0.04935759371267718
+                },
+                {
+                    "name": "tesla v100s-pcie-32gb",
+                    "reward": 0.049314959875
+                },
+                {
+                    "name": "tesla v100-pcie-32gb",
+                    "reward": 0.04929036562499998
+                },
+                {
+                    "name": "m3",
+                    "reward": 0.03843970499999998
+                },
+                {
+                    "name": "rtx 4000 sff ada generation",
+                    "reward": 0.03344777
+                },
+                {
+                    "name": "geforce rtx 3090",
+                    "reward": 0.03318829423450111
+                },
+                {
+                    "name": "geforce rtx 4080",
+                    "reward": 0.033155540646042175
+                },
+                {
+                    "name": "tesla v100-sxm2-16gb",
+                    "reward": 0.03289407153225807
+                },
+                {
+                    "name": "rtx 4000",
+                    "reward": 0.02688938
+                },
+                {
+                    "name": "rtx a4000",
+                    "reward": 0.026795631124918277
+                },
+                {
+                    "name": "tesla t4",
+                    "reward": 0.026772693695255517
+                },
+                {
+                    "name": "geforce rtx 3080 ti",
+                    "reward": 0.026618296907793784
+                },
+                {
+                    "name": "geforce rtx 3050",
+                    "reward": 0.016969820000000004
+                },
+                {
+                    "name": "geforce rtx 4070 ti",
+                    "reward": 0.0169434957
+                },
+                {
+                    "name": "geforce rtx 3060",
+                    "reward": 0.016924101874130845
+                },
+                {
+                    "name": "geforce rtx 4060 ti",
+                    "reward": 0.01690540821428571
+                },
+                {
+                    "name": "geforce rtx 3070 ti",
+                    "reward": 0.016903367531565655
+                },
+                {
+                    "name": "geforce rtx 3060 ti",
+                    "reward": 0.01689048255555555
+                },
+                {
+                    "name": "rtx 5000",
+                    "reward": 0.01688784
+                },
+                {
+                    "name": "geforce rtx 4060",
+                    "reward": 0.01686583561476608
+                },
+                {
+                    "name": "geforce rtx 3070",
+                    "reward": 0.016838578127412653
+                },
+                {
+                    "name": "geforce rtx 2080 ti",
+                    "reward": 0.016785862378941446
+                },
+                {
+                    "name": "geforce gtx 1080 ti",
+                    "reward": 0.016672644375
+                },
+                {
+                    "name": "geforce rtx 3080",
+                    "reward": 0.016644037205175655
+                },
+                {
+                    "name": "geforce rtx 4070",
+                    "reward": 0.016610664701967585
+                }
+            ]
+        },
+        {
+            "datetime": "2024-08-05T07:00:00",
+            "processors": [
+                {
+                    "name": "h100 pcie",
+                    "reward": 0.641639791187333
+                },
+                {
+                    "name": "h100 80gb hbm3",
+                    "reward": 0.6415294614779464
+                },
+                {
+                    "name": "a100 80gb pcie",
+                    "reward": 0.32122751756862056
+                },
+                {
+                    "name": "a100-sxm4-80gb",
+                    "reward": 0.32090705797343727
+                },
+                {
+                    "name": "rtx 6000 ada generation",
+                    "reward": 0.160441755
+                },
+                {
+                    "name": "l40",
+                    "reward": 0.1444055975
+                },
+                {
+                    "name": "a40",
+                    "reward": 0.128850525
+                },
+                {
+                    "name": "a100-pcie-40gb",
+                    "reward": 0.12860616733166635
+                },
+                {
+                    "name": "rtx a6000",
+                    "reward": 0.09671807375
+                },
+                {
+                    "name": "rtx 5000 ada generation",
+                    "reward": 0.096457485
+                },
+                {
+                    "name": "m2 ultra",
+                    "reward": 0.09297280500000002
+                },
+                {
+                    "name": "m2 max",
+                    "reward": 0.07450750000000012
+                },
+                {
+                    "name": "m3 max",
+                    "reward": 0.07450749999999998
+                },
+                {
+                    "name": "a16",
+                    "reward": 0.0644252625
+                },
+                {
+                    "name": "m2 pro",
+                    "reward": 0.05604226469811308
+                },
+                {
+                    "name": "m3 pro",
+                    "reward": 0.056042194999999836
+                },
+                {
+                    "name": "tesla v100-sxm2-32gb",
+                    "reward": 0.04874991999999993
+                },
+                {
+                    "name": "a10g",
+                    "reward": 0.04872701119047619
+                },
+                {
+                    "name": "geforce rtx 3090 ti",
+                    "reward": 0.04866974
+                },
+                {
+                    "name": "l4",
+                    "reward": 0.04865857346000001
+                },
+                {
+                    "name": "rtx a5000",
+                    "reward": 0.04865516159090909
+                },
+                {
+                    "name": "geforce rtx 4090",
+                    "reward": 0.04834325100169419
+                },
+                {
+                    "name": "a10",
+                    "reward": 0.048320616875
+                },
+                {
+                    "name": "geforce rtx 4090 d",
+                    "reward": 0.048266777179315365
+                },
+                {
+                    "name": "tesla v100s-pcie-32gb",
+                    "reward": 0.04823275225
+                },
+                {
+                    "name": "tesla v100-pcie-32gb",
+                    "reward": 0.04820869749999998
+                },
+                {
+                    "name": "m3",
+                    "reward": 0.03757689500000003
+                },
+                {
+                    "name": "rtx 4000 sff ada generation",
+                    "reward": 0.03271376
+                },
+                {
+                    "name": "geforce rtx 3090",
+                    "reward": 0.03246000121904815
+                },
+                {
+                    "name": "geforce rtx 4080",
+                    "reward": 0.03243626771119197
+                },
+                {
+                    "name": "tesla v100-sxm2-16gb",
+                    "reward": 0.032155404758064506
+                },
+                {
+                    "name": "rtx 4000",
+                    "reward": 0.0262993
+                },
+                {
+                    "name": "rtx a4000",
+                    "reward": 0.026206515906474753
+                },
+                {
+                    "name": "tesla t4",
+                    "reward": 0.026199219781021833
+                },
+                {
+                    "name": "geforce rtx 3080 ti",
+                    "reward": 0.026037416488342756
+                },
+                {
+                    "name": "geforce rtx 3050",
+                    "reward": 0.01659742
+                },
+                {
+                    "name": "geforce rtx 4070 ti",
+                    "reward": 0.01657200341503268
+                },
+                {
+                    "name": "geforce rtx 3060",
+                    "reward": 0.016561924609831885
+                },
+                {
+                    "name": "geforce rtx 3070 ti",
+                    "reward": 0.016537284956896547
+                },
+                {
+                    "name": "geforce rtx 4060 ti",
+                    "reward": 0.016526785238095233
+                },
+                {
+                    "name": "rtx 5000",
+                    "reward": 0.01651724
+                },
+                {
+                    "name": "geforce rtx 3060 ti",
+                    "reward": 0.016512616112399504
+                },
+                {
+                    "name": "geforce rtx 4060",
+                    "reward": 0.016496789478487886
+                },
+                {
+                    "name": "geforce rtx 3070",
+                    "reward": 0.01646966887147236
+                },
+                {
+                    "name": "geforce rtx 2080 ti",
+                    "reward": 0.016417378982323278
+                },
+                {
+                    "name": "geforce gtx 1080 ti",
+                    "reward": 0.01638694625
+                },
+                {
+                    "name": "geforce rtx 3080",
+                    "reward": 0.016282883177520784
+                },
+                {
+                    "name": "geforce rtx 4070",
+                    "reward": 0.01624039853154762
+                }
+            ]
+        },
+        {
+            "datetime": "2024-08-05T08:00:00",
+            "processors": [
+                {
+                    "name": "h100 pcie",
+                    "reward": 0.6530720166078648
+                },
+                {
+                    "name": "h100 80gb hbm3",
+                    "reward": 0.6529577766393517
+                },
+                {
+                    "name": "a100 80gb pcie",
+                    "reward": 0.3269429681969038
+                },
+                {
+                    "name": "a100-sxm4-80gb",
+                    "reward": 0.3266305026658046
+                },
+                {
+                    "name": "rtx 6000 ada generation",
+                    "reward": 0.1632996
+                },
+                {
+                    "name": "l40",
+                    "reward": 0.14697780125
+                },
+                {
+                    "name": "a40",
+                    "reward": 0.13122727
+                },
+                {
+                    "name": "a100-pcie-40gb",
+                    "reward": 0.13089308811079683
+                },
+                {
+                    "name": "rtx a6000",
+                    "reward": 0.09844085250000001
+                },
+                {
+                    "name": "rtx 5000 ada generation",
+                    "reward": 0.09817562
+                },
+                {
+                    "name": "m2 ultra",
+                    "reward": 0.09009815999999998
+                },
+                {
+                    "name": "m2 max",
+                    "reward": 0.07220379000000007
+                },
+                {
+                    "name": "m3 max",
+                    "reward": 0.07220378999999996
+                },
+                {
+                    "name": "a16",
+                    "reward": 0.06557282874999999
+                },
+                {
+                    "name": "m2 pro",
+                    "reward": 0.054309478928571575
+                },
+                {
+                    "name": "m3 pro",
+                    "reward": 0.054309414999999917
+                },
+                {
+                    "name": "tesla v100-sxm2-32gb",
+                    "reward": 0.04961826999999991
+                },
+                {
+                    "name": "a10g",
+                    "reward": 0.049594953095238085
+                },
+                {
+                    "name": "geforce rtx 3090 ti",
+                    "reward": 0.049536659999999996
+                },
+                {
+                    "name": "l4",
+                    "reward": 0.049525302128581375
+                },
+                {
+                    "name": "rtx a5000",
+                    "reward": 0.04952182204545455
+                },
+                {
+                    "name": "geforce rtx 4090",
+                    "reward": 0.04920466876928112
+                },
+                {
+                    "name": "a10",
+                    "reward": 0.04918350669642857
+                },
+                {
+                    "name": "geforce rtx 4090 d",
+                    "reward": 0.04909889747553277
+                },
+                {
+                    "name": "tesla v100s-pcie-32gb",
+                    "reward": 0.04908270989583334
+                },
+                {
+                    "name": "tesla v100-pcie-32gb",
+                    "reward": 0.04905975734374998
+                },
+                {
+                    "name": "m3",
+                    "reward": 0.03641504499999997
+                },
+                {
+                    "name": "rtx 4000 sff ada generation",
+                    "reward": 0.03329647
+                },
+                {
+                    "name": "geforce rtx 3090",
+                    "reward": 0.033033391659596636
+                },
+                {
+                    "name": "geforce rtx 4080",
+                    "reward": 0.03301522099771063
+                },
+                {
+                    "name": "tesla v100-sxm2-16gb",
+                    "reward": 0.032732446290322584
+                },
+                {
+                    "name": "rtx 4000",
+                    "reward": 0.02676775
+                },
+                {
+                    "name": "rtx a4000",
+                    "reward": 0.02667331374103949
+                },
+                {
+                    "name": "tesla t4",
+                    "reward": 0.02666165860714284
+                },
+                {
+                    "name": "geforce rtx 3080 ti",
+                    "reward": 0.026491687526124328
+                },
+                {
+                    "name": "geforce rtx 3050",
+                    "reward": 0.01689306
+                },
+                {
+                    "name": "geforce rtx 4070 ti",
+                    "reward": 0.016867513755341873
+                },
+                {
+                    "name": "geforce rtx 3060",
+                    "reward": 0.01686112161323824
+                },
+                {
+                    "name": "geforce rtx 3070 ti",
+                    "reward": 0.016845392340629803
+                },
+                {
+                    "name": "geforce rtx 4060 ti",
+                    "reward": 0.016839431499999998
+                },
+                {
+                    "name": "rtx 5000",
+                    "reward": 0.01681145
+                },
+                {
+                    "name": "geforce rtx 3060 ti",
+                    "reward": 0.016809938774386836
+                },
+                {
+                    "name": "geforce rtx 4060",
+                    "reward": 0.01679170120538539
+                },
+                {
+                    "name": "geforce rtx 3070",
+                    "reward": 0.016765342316524788
+                },
+                {
+                    "name": "geforce rtx 2080 ti",
+                    "reward": 0.016691904018171506
+                },
+                {
+                    "name": "geforce gtx 1080 ti",
+                    "reward": 0.016678838124999998
+                },
+                {
+                    "name": "geforce rtx 3080",
+                    "reward": 0.01658039535918076
+                },
+                {
+                    "name": "geforce rtx 4070",
+                    "reward": 0.016518957470219996
+                }
+            ]
+        },
+        {
+            "datetime": "2024-08-05T09:00:00",
+            "processors": [
+                {
+                    "name": "h100 pcie",
+                    "reward": 0.6515153431045461
+                },
+                {
+                    "name": "h100 80gb hbm3",
+                    "reward": 0.6514108249571124
+                },
+                {
+                    "name": "a100 80gb pcie",
+                    "reward": 0.32617048033385143
+                },
+                {
+                    "name": "a100-sxm4-80gb",
+                    "reward": 0.32585577956845246
+                },
+                {
+                    "name": "rtx 6000 ada generation",
+                    "reward": 0.16291249
+                },
+                {
+                    "name": "l40",
+                    "reward": 0.1466293825
+                },
+                {
+                    "name": "a40",
+                    "reward": 0.13091618
+                },
+                {
+                    "name": "a100-pcie-40gb",
+                    "reward": 0.1305833837780233
+                },
+                {
+                    "name": "rtx a6000",
+                    "reward": 0.0982074925
+                },
+                {
+                    "name": "rtx 5000 ada generation",
+                    "reward": 0.09794289
+                },
+                {
+                    "name": "m2 ultra",
+                    "reward": 0.091171055
+                },
+                {
+                    "name": "m2 max",
+                    "reward": 0.07306359500000001
+                },
+                {
+                    "name": "m3 max",
+                    "reward": 0.07306359499999998
+                },
+                {
+                    "name": "a16",
+                    "reward": 0.06545809
+                },
+                {
+                    "name": "m2 pro",
+                    "reward": 0.0549562204245279
+                },
+                {
+                    "name": "m3 pro",
+                    "reward": 0.054956135
+                },
+                {
+                    "name": "tesla v100-sxm2-32gb",
+                    "reward": 0.04950064999999992
+                },
+                {
+                    "name": "a10g",
+                    "reward": 0.049477388214285725
+                },
+                {
+                    "name": "geforce rtx 3090 ti",
+                    "reward": 0.04941923499999999
+                },
+                {
+                    "name": "l4",
+                    "reward": 0.049407913634397435
+                },
+                {
+                    "name": "rtx a5000",
+                    "reward": 0.04940443204545454
+                },
+                {
+                    "name": "geforce rtx 4090",
+                    "reward": 0.04908795748645918
+                },
+                {
+                    "name": "a10",
+                    "reward": 0.04906691526785715
+                },
+                {
+                    "name": "geforce rtx 4090 d",
+                    "reward": 0.04898410643402133
+                },
+                {
+                    "name": "tesla v100s-pcie-32gb",
+                    "reward": 0.04898162270833334
+                },
+                {
+                    "name": "tesla v100-pcie-32gb",
+                    "reward": 0.04895109125000003
+                },
+                {
+                    "name": "m3",
+                    "reward": 0.03684868
+                },
+                {
+                    "name": "rtx 4000 sff ada generation",
+                    "reward": 0.03321754
+                },
+                {
+                    "name": "geforce rtx 3090",
+                    "reward": 0.03295464776011023
+                },
+                {
+                    "name": "geforce rtx 4080",
+                    "reward": 0.03293677723154703
+                },
+                {
+                    "name": "tesla v100-sxm2-16gb",
+                    "reward": 0.03266868560344828
+                },
+                {
+                    "name": "rtx 4000",
+                    "reward": 0.0267043
+                },
+                {
+                    "name": "tesla t4",
+                    "reward": 0.026605394351851858
+                },
+                {
+                    "name": "rtx a4000",
+                    "reward": 0.026596396067937345
+                },
+                {
+                    "name": "geforce rtx 3080 ti",
+                    "reward": 0.0264266381547619
+                },
+                {
+                    "name": "geforce rtx 3050",
+                    "reward": 0.016853015
+                },
+                {
+                    "name": "geforce rtx 4070 ti",
+                    "reward": 0.016826871688888887
+                },
+                {
+                    "name": "geforce rtx 3060",
+                    "reward": 0.016819153079016734
+                },
+                {
+                    "name": "geforce rtx 4060 ti",
+                    "reward": 0.01680064535135135
+                },
+                {
+                    "name": "geforce rtx 3070 ti",
+                    "reward": 0.01678295808035714
+                },
+                {
+                    "name": "geforce rtx 3060 ti",
+                    "reward": 0.01677516082556936
+                },
+                {
+                    "name": "rtx 5000",
+                    "reward": 0.0167716
+                },
+                {
+                    "name": "geforce rtx 4060",
+                    "reward": 0.01674546987725225
+                },
+                {
+                    "name": "geforce rtx 3070",
+                    "reward": 0.016726637008294562
+                },
+                {
+                    "name": "geforce rtx 2080 ti",
+                    "reward": 0.01666609530257453
+                },
+                {
+                    "name": "geforce gtx 1080 ti",
+                    "reward": 0.016639299375
+                },
+                {
+                    "name": "geforce rtx 3080",
+                    "reward": 0.016543083932862534
+                },
+                {
+                    "name": "geforce rtx 4070",
+                    "reward": 0.016487053119444456
+                }
+            ]
+        },
+        {
+            "datetime": "2024-08-05T10:00:00",
+            "processors": [
+                {
+                    "name": "h100 pcie",
+                    "reward": 0.6633947307130756
+                },
+                {
+                    "name": "h100 80gb hbm3",
+                    "reward": 0.6632865294187704
+                },
+                {
+                    "name": "a100 80gb pcie",
+                    "reward": 0.33211416456921106
+                },
+                {
+                    "name": "a100-sxm4-80gb",
+                    "reward": 0.3317962086338135
+                },
+                {
+                    "name": "rtx 6000 ada generation",
+                    "reward": 0.16588246125
+                },
+                {
+                    "name": "l40",
+                    "reward": 0.149302505
+                },
+                {
+                    "name": "a40",
+                    "reward": 0.13330285
+                },
+                {
+                    "name": "a100-pcie-40gb",
+                    "reward": 0.13296162372818743
+                },
+                {
+                    "name": "rtx a6000",
+                    "reward": 0.09999786375
+                },
+                {
+                    "name": "rtx 5000 ada generation",
+                    "reward": 0.099728435
+                },
+                {
+                    "name": "m2 ultra",
+                    "reward": 0.09138446
+                },
+                {
+                    "name": "m3 max",
+                    "reward": 0.07323462000000003
+                },
+                {
+                    "name": "m2 max",
+                    "reward": 0.07323461999999988
+                },
+                {
+                    "name": "a16",
+                    "reward": 0.0667343225
+                },
+                {
+                    "name": "m2 pro",
+                    "reward": 0.055084889407894286
+                },
+                {
+                    "name": "m3 pro",
+                    "reward": 0.055084769999999984
+                },
+                {
+                    "name": "tesla v100-sxm2-32gb",
+                    "reward": 0.050403069999999967
+                },
+                {
+                    "name": "a10g",
+                    "reward": 0.05037938416666667
+                },
+                {
+                    "name": "geforce rtx 3090 ti",
+                    "reward": 0.05032017
+                },
+                {
+                    "name": "l4",
+                    "reward": 0.05030827967978707
+                },
+                {
+                    "name": "rtx a5000",
+                    "reward": 0.05030509727272728
+                },
+                {
+                    "name": "geforce rtx 4090",
+                    "reward": 0.04998210298147841
+                },
+                {
+                    "name": "a10",
+                    "reward": 0.0499592078125
+                },
+                {
+                    "name": "tesla v100s-pcie-32gb",
+                    "reward": 0.049893233625000005
+                },
+                {
+                    "name": "geforce rtx 4090 d",
+                    "reward": 0.04987627474451138
+                },
+                {
+                    "name": "tesla v100-pcie-32gb",
+                    "reward": 0.04984349312499998
+                },
+                {
+                    "name": "m3",
+                    "reward": 0.03693493
+                },
+                {
+                    "name": "rtx 4000 sff ada generation",
+                    "reward": 0.03382311
+                },
+                {
+                    "name": "geforce rtx 4080",
+                    "reward": 0.03353549244057298
+                },
+                {
+                    "name": "geforce rtx 3090",
+                    "reward": 0.033531378322768375
+                },
+                {
+                    "name": "tesla v100-sxm2-16gb",
+                    "reward": 0.03325736894345238
+                },
+                {
+                    "name": "rtx 4000",
+                    "reward": 0.02719113
+                },
+                {
+                    "name": "tesla t4",
+                    "reward": 0.02709494068702285
+                },
+                {
+                    "name": "rtx a4000",
+                    "reward": 0.027063591538461593
+                },
+                {
+                    "name": "geforce rtx 3080 ti",
+                    "reward": 0.02689367220521541
+                },
+                {
+                    "name": "geforce rtx 3050",
+                    "reward": 0.017160250000000002
+                },
+                {
+                    "name": "geforce rtx 4070 ti",
+                    "reward": 0.017132904965277772
+                },
+                {
+                    "name": "geforce rtx 4060 ti",
+                    "reward": 0.017111892499999996
+                },
+                {
+                    "name": "geforce rtx 3060",
+                    "reward": 0.017101331299853233
+                },
+                {
+                    "name": "geforce rtx 3070 ti",
+                    "reward": 0.01708964259379509
+                },
+                {
+                    "name": "geforce rtx 3060 ti",
+                    "reward": 0.017077100972222217
+                },
+                {
+                    "name": "geforce rtx 4060",
+                    "reward": 0.017047846530288832
+                },
+                {
+                    "name": "geforce rtx 3070",
+                    "reward": 0.01702942486868106
+                },
+                {
+                    "name": "geforce rtx 2080 ti",
+                    "reward": 0.016971778405596542
+                },
+                {
+                    "name": "geforce gtx 1080 ti",
+                    "reward": 0.016942640624999998
+                },
+                {
+                    "name": "geforce rtx 3080",
+                    "reward": 0.016900868571538805
+                },
+                {
+                    "name": "geforce rtx 4070",
+                    "reward": 0.016793126241269843
+                }
+            ]
+        },
+        {
+            "datetime": "2024-08-05T11:00:00",
+            "processors": [
+                {
+                    "name": "h100 pcie",
+                    "reward": 0.6578170273678874
+                },
+                {
+                    "name": "h100 80gb hbm3",
+                    "reward": 0.6577125275721472
+                },
+                {
+                    "name": "a100 80gb pcie",
+                    "reward": 0.3293224062256703
+                },
+                {
+                    "name": "a100-sxm4-80gb",
+                    "reward": 0.32900854614460195
+                },
+                {
+                    "name": "rtx 6000 ada generation",
+                    "reward": 0.16448858625
+                },
+                {
+                    "name": "a40",
+                    "reward": 0.13218273
+                },
+                {
+                    "name": "a100-pcie-40gb",
+                    "reward": 0.13184572963969654
+                },
+                {
+                    "name": "rtx a6000",
+                    "reward": 0.0991576025
+                },
+                {
+                    "name": "rtx 5000 ada generation",
+                    "reward": 0.09889044
+                },
+                {
+                    "name": "m2 ultra",
+                    "reward": 0.09099950500000001
+                },
+                {
+                    "name": "m2 max",
+                    "reward": 0.07292611499999997
+                },
+                {
+                    "name": "m3 max",
+                    "reward": 0.07292611499999996
+                },
+                {
+                    "name": "a16",
+                    "reward": 0.06617357
+                },
+                {
+                    "name": "m2 pro",
+                    "reward": 0.054852830915413556
+                },
+                {
+                    "name": "m3 pro",
+                    "reward": 0.05485272999999992
+                },
+                {
+                    "name": "tesla v100-sxm2-32gb",
+                    "reward": 0.04997953999999989
+                },
+                {
+                    "name": "a10g",
+                    "reward": 0.04995605345238096
+                },
+                {
+                    "name": "geforce rtx 3090 ti",
+                    "reward": 0.049897335
+                },
+                {
+                    "name": "l4",
+                    "reward": 0.04988539587103324
+                },
+                {
+                    "name": "rtx a5000",
+                    "reward": 0.049882389090909085
+                },
+                {
+                    "name": "geforce rtx 4090",
+                    "reward": 0.04957757389597062
+                },
+                {
+                    "name": "a10",
+                    "reward": 0.04953941104166667
+                },
+                {
+                    "name": "geforce rtx 4090 d",
+                    "reward": 0.04947685275578641
+                },
+                {
+                    "name": "tesla v100s-pcie-32gb",
+                    "reward": 0.04945109151785715
+                },
+                {
+                    "name": "tesla v100-pcie-32gb",
+                    "reward": 0.04942466937500002
+                },
+                {
+                    "name": "m3",
+                    "reward": 0.03677934500000002
+                },
+                {
+                    "name": "rtx 4000 sff ada generation",
+                    "reward": 0.0335389
+                },
+                {
+                    "name": "geforce rtx 4080",
+                    "reward": 0.03325432930346121
+                },
+                {
+                    "name": "geforce rtx 3090",
+                    "reward": 0.03325033208081885
+                },
+                {
+                    "name": "tesla v100-sxm2-16gb",
+                    "reward": 0.03297974925347223
+                },
+                {
+                    "name": "rtx 4000",
+                    "reward": 0.02696265
+                },
+                {
+                    "name": "tesla t4",
+                    "reward": 0.026855016330935306
+                },
+                {
+                    "name": "rtx a4000",
+                    "reward": 0.026846193611111076
+                },
+                {
+                    "name": "geforce rtx 3080 ti",
+                    "reward": 0.026666908805501918
+                },
+                {
+                    "name": "geforce rtx 3050",
+                    "reward": 0.01701606
+                },
+                {
+                    "name": "geforce rtx 4070 ti",
+                    "reward": 0.016989042477603578
+                },
+                {
+                    "name": "geforce rtx 4060 ti",
+                    "reward": 0.016968663761261264
+                },
+                {
+                    "name": "geforce rtx 3060",
+                    "reward": 0.01695800043062083
+                },
+                {
+                    "name": "geforce rtx 3070 ti",
+                    "reward": 0.016944558581029192
+                },
+                {
+                    "name": "geforce rtx 3060 ti",
+                    "reward": 0.01693380879728132
+                },
+                {
+                    "name": "geforce rtx 4060",
+                    "reward": 0.016910042797740353
+                },
+                {
+                    "name": "geforce gtx 1080 ti",
+                    "reward": 0.0169081678125
+                },
+                {
+                    "name": "geforce rtx 3070",
+                    "reward": 0.016862244451864024
+                },
+                {
+                    "name": "geforce rtx 2080 ti",
+                    "reward": 0.016827355188698205
+                },
+                {
+                    "name": "geforce rtx 3080",
+                    "reward": 0.01676050843272535
+                },
+                {
+                    "name": "geforce rtx 4070",
+                    "reward": 0.01664865436383928
+                }
+            ]
+        },
+        {
+            "datetime": "2024-08-05T12:00:00",
+            "processors": [
+                {
+                    "name": "h100 pcie",
+                    "reward": 0.6539792300120296
+                },
+                {
+                    "name": "h100 80gb hbm3",
+                    "reward": 0.6538764530958507
+                },
+                {
+                    "name": "a100 80gb pcie",
+                    "reward": 0.3274069456454405
+                },
+                {
+                    "name": "a100-sxm4-80gb",
+                    "reward": 0.3270901577973947
+                },
+                {
+                    "name": "rtx 6000 ada generation",
+                    "reward": 0.163529385
+                },
+                {
+                    "name": "a40",
+                    "reward": 0.13141192
+                },
+                {
+                    "name": "a100-pcie-40gb",
+                    "reward": 0.13107921244162016
+                },
+                {
+                    "name": "rtx a6000",
+                    "reward": 0.0985793725
+                },
+                {
+                    "name": "rtx 5000 ada generation",
+                    "reward": 0.09831377
+                },
+                {
+                    "name": "m2 ultra",
+                    "reward": 0.09223668500000001
+                },
+                {
+                    "name": "m3 max",
+                    "reward": 0.073917585
+                },
+                {
+                    "name": "m2 max",
+                    "reward": 0.07391758499999976
+                },
+                {
+                    "name": "a16",
+                    "reward": 0.06570596166666666
+                },
+                {
+                    "name": "m2 pro",
+                    "reward": 0.055598518755295284
+                },
+                {
+                    "name": "m3 pro",
+                    "reward": 0.055598485000000045
+                },
+                {
+                    "name": "tesla v100-sxm2-32gb",
+                    "reward": 0.04968809000000006
+                },
+                {
+                    "name": "a10g",
+                    "reward": 0.04966474023809523
+                },
+                {
+                    "name": "geforce rtx 3090 ti",
+                    "reward": 0.049606365
+                },
+                {
+                    "name": "l4",
+                    "reward": 0.04959472479785712
+                },
+                {
+                    "name": "rtx a5000",
+                    "reward": 0.04959150613636364
+                },
+                {
+                    "name": "geforce rtx 4090",
+                    "reward": 0.04928799354726104
+                },
+                {
+                    "name": "a10",
+                    "reward": 0.04925271580357143
+                },
+                {
+                    "name": "geforce rtx 4090 d",
+                    "reward": 0.04918932801252553
+                },
+                {
+                    "name": "tesla v100s-pcie-32gb",
+                    "reward": 0.049177314861111106
+                },
+                {
+                    "name": "tesla v100-pcie-32gb",
+                    "reward": 0.04913645374999998
+                },
+                {
+                    "name": "m3",
+                    "reward": 0.037279375000000003
+                },
+                {
+                    "name": "rtx 4000 sff ada generation",
+                    "reward": 0.03334332
+                },
+                {
+                    "name": "geforce rtx 3090",
+                    "reward": 0.033075793584661006
+                },
+                {
+                    "name": "geforce rtx 4080",
+                    "reward": 0.0330530311325717
+                },
+                {
+                    "name": "tesla v100-pcie-16gb",
+                    "reward": 0.032934705
+                },
+                {
+                    "name": "tesla v100-sxm2-16gb",
+                    "reward": 0.03278758116421569
+                },
+                {
+                    "name": "rtx 4000",
+                    "reward": 0.02680542
+                },
+                {
+                    "name": "tesla t4",
+                    "reward": 0.026689739471831044
+                },
+                {
+                    "name": "rtx a4000",
+                    "reward": 0.026689643055555493
+                },
+                {
+                    "name": "geforce rtx 3080 ti",
+                    "reward": 0.026511403680823685
+                },
+                {
+                    "name": "geforce rtx 3050",
+                    "reward": 0.016916834999999998
+                },
+                {
+                    "name": "geforce rtx 4070 ti",
+                    "reward": 0.016890405106382983
+                },
+                {
+                    "name": "geforce rtx 3060",
+                    "reward": 0.016866451016922086
+                },
+                {
+                    "name": "geforce rtx 4060 ti",
+                    "reward": 0.016854418974358975
+                },
+                {
+                    "name": "geforce rtx 3060 ti",
+                    "reward": 0.016838940016464035
+                },
+                {
+                    "name": "geforce rtx 3070 ti",
+                    "reward": 0.016838728372395827
+                },
+                {
+                    "name": "geforce rtx 4060",
+                    "reward": 0.01681125619444445
+                },
+                {
+                    "name": "geforce gtx 1080 ti",
+                    "reward": 0.0168095721875
+                },
+                {
+                    "name": "geforce rtx 3070",
+                    "reward": 0.01676610956509536
+                },
+                {
+                    "name": "geforce rtx 2080 ti",
+                    "reward": 0.016734747583020102
+                },
+                {
+                    "name": "geforce rtx 3080",
+                    "reward": 0.01665679249781748
+                },
+                {
+                    "name": "geforce rtx 4070",
+                    "reward": 0.01655324886657589
+                }
+            ]
+        },
+        {
+            "datetime": "2024-08-05T13:00:00",
+            "processors": [
+                {
+                    "name": "h100 pcie",
+                    "reward": 0.6605714431662579
+                },
+                {
+                    "name": "h100 80gb hbm3",
+                    "reward": 0.6604625579857426
+                },
+                {
+                    "name": "a100 80gb pcie",
+                    "reward": 0.33070250182037075
+                },
+                {
+                    "name": "a100-sxm4-80gb",
+                    "reward": 0.3303848225666304
+                },
+                {
+                    "name": "rtx 6000 ada generation",
+                    "reward": 0.1651765
+                },
+                {
+                    "name": "l40",
+                    "reward": 0.148667105
+                },
+                {
+                    "name": "a40",
+                    "reward": 0.13273554
+                },
+                {
+                    "name": "a100-pcie-40gb",
+                    "reward": 0.13239042965240894
+                },
+                {
+                    "name": "rtx a6000",
+                    "reward": 0.09957229125
+                },
+                {
+                    "name": "rtx 5000 ada generation",
+                    "reward": 0.099304015
+                },
+                {
+                    "name": "m2 ultra",
+                    "reward": 0.09268716500000002
+                },
+                {
+                    "name": "m2 max",
+                    "reward": 0.07427859000000012
+                },
+                {
+                    "name": "m3 max",
+                    "reward": 0.07427858999999998
+                },
+                {
+                    "name": "a16",
+                    "reward": 0.06632649624999999
+                },
+                {
+                    "name": "m2 pro",
+                    "reward": 0.05587005370895417
+                },
+                {
+                    "name": "m3 pro",
+                    "reward": 0.055870020000000006
+                },
+                {
+                    "name": "tesla v100-sxm2-32gb",
+                    "reward": 0.050188559999999875
+                },
+                {
+                    "name": "a10g",
+                    "reward": 0.05016379600000002
+                },
+                {
+                    "name": "geforce rtx 3090 ti",
+                    "reward": 0.050106015000000004
+                },
+                {
+                    "name": "l4",
+                    "reward": 0.05009383891901681
+                },
+                {
+                    "name": "rtx a5000",
+                    "reward": 0.05009100659090909
+                },
+                {
+                    "name": "geforce rtx 4090",
+                    "reward": 0.04978765426647257
+                },
+                {
+                    "name": "a10",
+                    "reward": 0.04974659010416667
+                },
+                {
+                    "name": "tesla v100s-pcie-32gb",
+                    "reward": 0.049691990390624996
+                },
+                {
+                    "name": "geforce rtx 4090 d",
+                    "reward": 0.04968253999483783
+                },
+                {
+                    "name": "tesla v100-pcie-32gb",
+                    "reward": 0.04962517887500001
+                },
+                {
+                    "name": "m3",
+                    "reward": 0.03746144500000004
+                },
+                {
+                    "name": "rtx 4000 sff ada generation",
+                    "reward": 0.03367917
+                },
+                {
+                    "name": "geforce rtx 3090",
+                    "reward": 0.033409866660909615
+                },
+                {
+                    "name": "geforce rtx 4080",
+                    "reward": 0.03339403753453947
+                },
+                {
+                    "name": "tesla v100-pcie-16gb",
+                    "reward": 0.03326643
+                },
+                {
+                    "name": "tesla v100-sxm2-16gb",
+                    "reward": 0.03311829801005746
+                },
+                {
+                    "name": "rtx 4000",
+                    "reward": 0.02707541
+                },
+                {
+                    "name": "tesla t4",
+                    "reward": 0.026957736489361728
+                },
+                {
+                    "name": "rtx a4000",
+                    "reward": 0.02695533939393944
+                },
+                {
+                    "name": "geforce rtx 3080 ti",
+                    "reward": 0.02677087289943609
+                },
+                {
+                    "name": "geforce rtx 3050",
+                    "reward": 0.017087224999999998
+                },
+                {
+                    "name": "geforce rtx 4070 ti",
+                    "reward": 0.01706036431689342
+                },
+                {
+                    "name": "geforce rtx 3060",
+                    "reward": 0.017034353787741558
+                },
+                {
+                    "name": "geforce rtx 4060 ti",
+                    "reward": 0.017028754305555553
+                },
+                {
+                    "name": "geforce rtx 3070 ti",
+                    "reward": 0.01701372580049261
+                },
+                {
+                    "name": "geforce rtx 3060 ti",
+                    "reward": 0.01699996457364341
+                },
+                {
+                    "name": "geforce gtx 1080 ti",
+                    "reward": 0.01697888125
+                },
+                {
+                    "name": "geforce rtx 4060",
+                    "reward": 0.016977740251490896
+                },
+                {
+                    "name": "geforce rtx 3070",
+                    "reward": 0.016936503045001647
+                },
+                {
+                    "name": "geforce rtx 2080 ti",
+                    "reward": 0.016916626812691377
+                },
+                {
+                    "name": "geforce rtx 3080",
+                    "reward": 0.01681879731207143
+                },
+                {
+                    "name": "geforce rtx 4070",
+                    "reward": 0.016729332215161652
+                }
+            ]
+        }
+    ],
+    "ioPrice": 1.558,
+    "usdCnyRate": 7.17,
+    "lastUpdated": "2024-08-05T23:13:16.775325"
+}

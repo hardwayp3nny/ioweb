@@ -1,0 +1,14 @@
+{
+  "name": "my-worker",
+  "version": "1.0.0",
+  "main": "src/worker.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "deploy": "wrangler publish"
+  },
+  "devDependencies": {
+    "webpack": "^5.50.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
